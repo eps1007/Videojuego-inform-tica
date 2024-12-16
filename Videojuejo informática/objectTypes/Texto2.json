@@ -1,0 +1,24 @@
+{
+	"name": "Texto2",
+	"plugin-id": "Text",
+	"sid": 788836077685482,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Aciertos",
+			"type": "number",
+			"desc": "",
+			"show": false,
+			"sid": 962604973053229
+		},
+		{
+			"name": "Variable1",
+			"type": "number",
+			"desc": "",
+			"show": false,
+			"sid": 920623722404171
+		}
+	],
+	"behaviorTypes": [],
+	"effectTypes": []
+}
